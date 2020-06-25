@@ -4,7 +4,6 @@ const ejs = require("ejs");
 const mongoose = require("mongoose")
 
 const _ = require("lodash");
-let posts = [];
 
 const app = express();
 
